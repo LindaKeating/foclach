@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/foclach/static/css/main.4f75ac49.css",
-    "main.js": "/foclach/static/js/main.47deb3d2.js",
+    "main.css": "/foclach/static/css/main.416b97c6.css",
+    "main.js": "/foclach/static/js/main.62969955.js",
     "static/media/Cross.png": "/foclach/static/media/Cross.cbf77228e847522eff11.png",
     "static/media/Success.png": "/foclach/static/media/Success.df533be8f86a57bc5946.png",
     "static/media/Ranade-Variable.ttf": "/foclach/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
@@ -10,11 +10,11 @@
     "static/media/Settings.svg": "/foclach/static/media/Settings.0808c435ed629b919ffa742a20d897f6.svg",
     "static/media/Info.svg": "/foclach/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
     "static/media/Close.svg": "/foclach/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
-    "main.4f75ac49.css.map": "/foclach/static/css/main.4f75ac49.css.map",
-    "main.47deb3d2.js.map": "/foclach/static/js/main.47deb3d2.js.map"
+    "main.416b97c6.css.map": "/foclach/static/css/main.416b97c6.css.map",
+    "main.62969955.js.map": "/foclach/static/js/main.62969955.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f75ac49.css",
-    "static/js/main.47deb3d2.js"
+    "static/css/main.416b97c6.css",
+    "static/js/main.62969955.js"
   ]
 }
