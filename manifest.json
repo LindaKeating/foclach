@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     },
     {
-      "src": "android-chrom-192x192.png",
+      "src": "android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
@@ -21,7 +21,7 @@
       "src": "logo196.png",
       "type": "image/png",
       "sizes": "196x196",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ],
   "start_url": ".",
