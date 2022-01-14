@@ -8,6 +8,31 @@
       "type": "image/x-icon"
     },
     {
+      "src": "hdpi/android512x512.png",
+      "type": "image/png",
+      "sizes": "768x768"
+    },
+    {
+      "src": "mdpi/android512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "xhdpi/android512x512.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "xxhdpi/android512x512.png",
+      "type": "image/png",
+      "sizes": "1536x1536"
+    },
+    {
+      "src": "xxxhdpi/android512x512.png",
+      "type": "image/png",
+      "sizes": "2048x2048"
+    },
+    {
       "src": "android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
