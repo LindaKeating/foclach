@@ -42,5 +42,6 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#1A5F7A",
-  "background_color": "#ffffff"
+  "background_color": "#086E7D",
+  "description": "Cluiche focal"
 }
