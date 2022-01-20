@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/foclach/static/css/main.07bb9391.css",
-    "main.js": "/foclach/static/js/main.47d4eff0.js",
+    "main.js": "/foclach/static/js/main.2deb906f.js",
     "static/media/Cross.png": "/foclach/static/media/Cross.cbf77228e847522eff11.png",
     "static/media/Success.png": "/foclach/static/media/Success.df533be8f86a57bc5946.png",
     "static/media/Ranade-Variable.ttf": "/foclach/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
@@ -12,10 +12,10 @@
     "static/media/Info.svg": "/foclach/static/media/Info.09a10ab74715f0ca8f926b8fc05c6344.svg",
     "static/media/Close.svg": "/foclach/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
     "main.07bb9391.css.map": "/foclach/static/css/main.07bb9391.css.map",
-    "main.47d4eff0.js.map": "/foclach/static/js/main.47d4eff0.js.map"
+    "main.2deb906f.js.map": "/foclach/static/js/main.2deb906f.js.map"
   },
   "entrypoints": [
     "static/css/main.07bb9391.css",
-    "static/js/main.47d4eff0.js"
+    "static/js/main.2deb906f.js"
   ]
 }
