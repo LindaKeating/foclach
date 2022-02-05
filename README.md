@@ -5,7 +5,7 @@ A clone of octokatherine Word Master but slightly changed to allow Irish languag
 🔗 https://octokatherine.github.io/word-master/
 
 
-Which was heavily inspired by [Wordle](https://www.powerlanguage.co.uk/wordle/).
+Which was heavily inspired by [Wordle](https://www.powerlanguage.co.uk/wordle/), Word Master is a word guessing game similar to Mastermind. I created this because I love Wordle, but the once a day limit leaves me wanting more.
 ## Rules
 
 You have 6 guesses to guess the correct word.

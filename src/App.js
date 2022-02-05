@@ -441,21 +441,13 @@ function App() {
   }
 
   const copyToClipboard = () => {
-    if ((gameState === state.lost) {
-      navigator.clipboard.writeText("FOCLACH " + getTodaysWordNumber() + ' - ' + "x/6\x0A"  + myResults + "\x0A").then(function(){
+	  let rowString = gameState === state.lost ? 'X' : rowsPlayed
+      navigator.clipboard.writeText("FOCLACH " + getTodaysWordNumber() + ' - ' + rowString + "/6\x0A"  + myResults + "\x0A").then(function(){
         setClipboardMessage(dictionary['ResultsCopiedToClipboard'])
         showMessage(dictionary['ResultsCopiedToClipboard'], { className: 'infoToast'})
       }, function(){
         console.log('there was a problem heuston')
       });
-    } else {
-      navigator.clipboard.writeText("FOCLACH " + getTodaysWordNumber() + ' - ' + rowsPlayed + "/6\x0A"  + myResults + "\x0A").then(function(){
-        setClipboardMessage(dictionary['ResultsCopiedToClipboard'])
-        showMessage(dictionary['ResultsCopiedToClipboard'], { className: 'infoToast'})
-      }, function(){
-        console.log('there was a problem heuston')
-      });
-    }
   }
 
 
